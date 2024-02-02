@@ -1,5 +1,4 @@
-"# landing-page_3" 
-"# landing_page_3" 
+:) landing-page_3 :)
 --------------------------
 Responsive Design:
 
